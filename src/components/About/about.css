@@ -1,0 +1,32 @@
+#about{
+    overflow: hidden;
+    width: 100vw;
+    max-width: 70rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+    border: 2px solid rgb(50, 50, 50);
+}
+
+.aboutme{
+    font-size: 3rem;
+    font-weight: 600;
+    padding-top: 3rem;
+    margin-bottom: 1.5rem;
+}
+
+.para{
+   font-weight: 400;
+   font-size: 15px; 
+   max-width: 50rem;
+   padding: 2rem 2rem;
+   word-spacing: 6px;
+   letter-spacing: 1px;
+   background: yellow; 
+   color: black;
+   border-radius: 15px;
+   margin-bottom: 30px;
+}
